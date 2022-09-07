@@ -28,6 +28,12 @@
     }
 
   }],
+  "subPackages": [{
+    "root": "subpkg",
+    "pages": [{
+      "path": "goods-detail/goods-detail"
+    }]
+  }],
   "tabBar": {
     "selectedColor": "#C00000",
     "list": [{
